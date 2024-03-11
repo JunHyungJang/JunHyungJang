@@ -1,37 +1,36 @@
 # JunhyungJang 😉
-### Who Am I
-- 🌱 DGIST(대구경북과학기술원) 18학번 장준형입니다. 
-- 💻 Majoring in Computer engineering 
+### Education
+DGIST 컴퓨터 공학과 졸업 (2018.02-2023.06)
+
 
 #
-### What i like 
-* 💻 I am studying both back-end and front-end 
-* 😎 I am interested in deep-learning
+### Career  
+|Type|Date|Contents|Org|
+|---|---|---|---|
+|Seasonal semester|2021.12-2022.01|KAIST 몰입캠프(앱, 웹 개발)|KAIST|
+|Intern|2022.07-2022.08|DGIST Image Processing LAb 인턴|DGIST|
+|External Activities|2023.06|마이크로소프트 해커톤 기술자문|MicroSoft|
+|Work|2023.07 - |펑션트웰브 백엔드 팀 - Backend Developer|Function12|
 
-#
 ### Experience
--  Johns Hopkins University exchange program (2018 summer)
--  DGIST World-class University Rowing Festival volunteering as interpreter (2018 summer)
--  Happymove education volunteer in Myanmar (2018 winter) 
--  Vietnam ICT volunteering for computer education(python and Raspberry Pi)  (2019 summer)
--  KAIST madcamp (2021 winter)
--  DGIS Image processing Lab Intern (2022 summer)
 
-#
-### Skills
-<div align = 'center'>
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+|Type|Date|Contents|Org|
+|---|---|---|---|
+|Exchange Student|2018.06-2018.08|Johns Hopkins University 교환학생|Johns Hopkins University|
+|Volunteer|2018.08-2018.08|DGIST World-class University Rowing Festvial 통역봉사|DGIST|
+|Volunteer|2019.02.10-2019.02.24|HappyMove 미얀마 교육봉사 |현대자동차|
+|Volunteer|2019.07-2019.08|베트남 ICT 교육봉사(라즈베리파이, 파이썬)|KOICA|
+
+## Research
+**A Survey and Perspective on Industrial Cyber-Physical Systems (ICPS): From ICPS to AI-Augmented ICPS**
+
+Published in: [IEEE Transactions on Industrial Cyber-Physical Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9984155) ( Volume: 1)
+
+## Project
+개인 프로젝트
+- MSA기반 E-commerce 서버 구축
+
+
 </div>
 
 #
