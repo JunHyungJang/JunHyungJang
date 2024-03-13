@@ -21,10 +21,11 @@ DGIST 컴퓨터 공학과 졸업 (2018.02-2023.06)
 |Volunteer|2019.02.10-2019.02.24|HappyMove 미얀마 교육봉사 |현대자동차|
 |Volunteer|2019.07-2019.08|베트남 ICT 교육봉사(라즈베리파이, 파이썬)|KOICA|
 
-## Research
-**A Survey and Perspective on Industrial Cyber-Physical Systems (ICPS): From ICPS to AI-Augmented ICPS**
+## Research Paper
+**1. A Survey and Perspective on Industrial Cyber-Physical Systems (ICPS): From ICPS to AI-Augmented ICPS**
 
-Published in: [IEEE Transactions on Industrial Cyber-Physical Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9984155) ( Volume: 1)
+https://www.ieee-ies.org/pubs/transactions-on-industrial-cyberphysical-systems
+
 
 ## Project
 개인 프로젝트
