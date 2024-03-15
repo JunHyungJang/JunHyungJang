@@ -24,7 +24,7 @@ DGIST 컴퓨터 공학과 졸업 (2018.02-2023.06)
 ## Research Paper
 **1. A Survey and Perspective on Industrial Cyber-Physical Systems (ICPS): From ICPS to AI-Augmented ICPS**
 
-https://www.ieee-ies.org/pubs/transactions-on-industrial-cyberphysical-systems
+[https://www.ieee-ies.org/pubs/transactions-on-industrial-cyberphysical-systems](https://ieeexplore.ieee.org/document/10285426)
 
 
 ## Project
