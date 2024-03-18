@@ -28,8 +28,19 @@ DGIST 컴퓨터 공학과 졸업 (2018.02-2023.06)
 
 
 ## Project
-개인 프로젝트
-- MSA기반 E-commerce 서버 구축
+#### 개인 프로젝트
+
+MSA기반 E-commerce 서버 구축
+- https://github.com/JunHyungJang/spring_msa_server
+  
+Chatting Server 구축(STOMP + Kafka)
+- https://github.com/JunHyungJang/spring_chat_server
+
+MIPS-Assembler 제작
+- https://github.com/JunHyungJang/MIPS_Assembler
+  
+
+  
 
 
 </div>
