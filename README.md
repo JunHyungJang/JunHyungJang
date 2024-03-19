@@ -35,10 +35,14 @@ MSA기반 E-commerce 서버 구축
   
 Chatting Server 구축(STOMP + Kafka)
 - https://github.com/JunHyungJang/spring_chat_server
+  
+앱(대학축제) 풀스택 개발 및 출시 
+- https://github.com/JunHyungJang/UnivFestival_2
 
 MIPS-Assembler 제작
 - https://github.com/JunHyungJang/MIPS_Assembler
-  
+
+
 
   
 
