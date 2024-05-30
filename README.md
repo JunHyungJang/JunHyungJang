@@ -8,7 +8,7 @@ DGIST 컴퓨터 공학과 졸업 (2018.02-2023.06)
 |Type|Date|Contents|Org|
 |---|---|---|---|
 |Seasonal semester|2021.12-2022.01|KAIST 몰입캠프(앱, 웹 개발)|KAIST|
-|Intern|2022.07-2022.08|DGIST Image Processing LAb 인턴|DGIST|
+|Intern|2022.07-2022.08|DGIST Image Processing Lab 인턴|DGIST|
 |External Activities|2023.06|마이크로소프트 해커톤 기술자문|MicroSoft|
 |Work|2023.07 - |펑션트웰브 백엔드 팀 - Backend Developer|Function12|
 
