@@ -22,16 +22,18 @@ DGIST 컴퓨터 공학과 졸업 (2018.02-2023.06)
 |Volunteer|2019.07-2019.08|베트남 ICT 교육봉사(라즈베리파이, 파이썬)|KOICA|
 
 ## Research Paper
-**1. A Survey and Perspective on Industrial Cyber-Physical Systems (ICPS): From ICPS to AI-Augmented ICPS**
-
-[https://www.ieee-ies.org/pubs/transactions-on-industrial-cyberphysical-systems](https://ieeexplore.ieee.org/document/10285426)
+[A Survey and Perspective on Industrial Cyber-Physical Systems (ICPS): From ICPS to AI-Augmented ICPS](https://ieeexplore.ieee.org/document/10285426)
 
 
 ## Project
 #### 개인 프로젝트
 
-MSA기반 E-commerce 서버 구축
-- https://github.com/JunHyungJang/spring_msa_server_refactor
+커넥티스트 (2024.05~)
+- [커넥티스트 서비스 개발](https://github.com/connetist/connectist-backend)
+
+E-commerce 서버 (2023.12~)
+- [MSA기반 E-commerce 서버 구축](https://github.com/JunHyungJang/spring_msa_server_refactor)
+
 
 
 
