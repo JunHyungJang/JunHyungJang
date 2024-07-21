@@ -21,8 +21,16 @@ DGIST 컴퓨터 공학과 졸업 (2018.02-2023.06)
 |Volunteer|2019.02.10-2019.02.24|HappyMove 미얀마 교육봉사 |현대자동차|
 |Volunteer|2019.07-2019.08|베트남 ICT 교육봉사(라즈베리파이, 파이썬)|KOICA|
 
-## Research Paper
-[A Survey and Perspective on Industrial Cyber-Physical Systems (ICPS): From ICPS to AI-Augmented ICPS](https://ieeexplore.ieee.org/document/10285426)
+## Opensource Contributions
+
+[spring-data-mongodb](https://github.com/spring-projects/spring-data-mongodb)
+- spring-data-mongodb의 mongo driver 버전 update [#4743](https://github.com/spring-projects/spring-data-mongodb/pull/4743)
+
+[assertj](https://github.com/assertj)
+- BigDecimalAssertion을 위한 floatingPointFormat와 IntegerPointFormat 피처 추가 [#3538](https://github.com/assertj/assertj/pull/3538)
+
+[argocd](https://github.com/argoproj/argo-cd)
+- argocd의 의존성 봇 추가를 통한 패키지 관리 구현 [#775](https://github.com/argoproj-labs/argocd-image-updater/pull/775)
 
 
 ## Project
@@ -35,6 +43,8 @@ E-commerce 서버 (2023.12~)
 - [MSA기반 E-commerce 서버 구축](https://github.com/JunHyungJang/spring_msa_server_refactor)
 
 
+## Research Paper
+[A Survey and Perspective on Industrial Cyber-Physical Systems (ICPS): From ICPS to AI-Augmented ICPS](https://ieeexplore.ieee.org/document/10285426)
 
 
   
