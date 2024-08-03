@@ -28,6 +28,7 @@ DGIST 컴퓨터 공학과 졸업 (2018.02-2023.06)
 
 [assertj](https://github.com/assertj)
 - BigDecimalAssertion을 위한 floatingPointFormat와 IntegerPointFormat 피처 추가 [#3538](https://github.com/assertj/assertj/pull/3538)
+- satisfies를 통해 테스트케이스의 조건들을 확인할때, 어떤 케이스가 틀렸는지 확인하는 로직 추가 [#3554](https://github.com/assertj/assertj/pull/3554)
 
 [argocd](https://github.com/argoproj/argo-cd)
 - argocd의 의존성 봇 추가를 통한 패키지 관리 구현 [#775](https://github.com/argoproj-labs/argocd-image-updater/pull/775)
