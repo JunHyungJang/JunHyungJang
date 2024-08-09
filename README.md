@@ -35,10 +35,12 @@ DGIST 컴퓨터 공학과 졸업 (2018.02-2023.06)
 
 
 ## Project
-#### 개인 프로젝트
 
 커넥티스트 (2024.05~)
 - [커넥티스트 서비스 개발](https://github.com/connetist/connectist-backend)
+
+마이모지 (2024.-7~2024.08)
+- [마이모지 서버개발](https://github.com/407ten006/emotions-backend)
 
 E-commerce 서버 (2023.12~)
 - [MSA기반 E-commerce 서버 구축](https://github.com/JunHyungJang/spring_msa_server_refactor)
@@ -47,7 +49,9 @@ E-commerce 서버 (2023.12~)
 ## Research Paper
 [A Survey and Perspective on Industrial Cyber-Physical Systems (ICPS): From ICPS to AI-Augmented ICPS](https://ieeexplore.ieee.org/document/10285426)
 
-
+- 산업분야에서 효과적인 **AI** 기반의 **CPS**를 구성하기 위한 구체적인 지침에 대한 내용작성
+- Data Processing, Data Decsion, Monitoring 관련된 200여개 이상의 최신 AI논문을 검토 후 분류
+- IEEE Transactions on Industrial Cyber-Physical Systems에 출판
   
 
 
