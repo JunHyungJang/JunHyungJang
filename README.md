@@ -11,6 +11,7 @@ DGIST 컴퓨터 공학과 졸업 (2018.02-2023.06)
 |Intern|2022.07-2022.08|DGIST Image Processing Lab 인턴|DGIST|
 |External Activities|2023.06|마이크로소프트 해커톤 기술자문|MicroSoft|
 |Work|2023.07 - |펑션트웰브 백엔드 팀 - Backend Developer|Function12|
+|External Activities|2024.07-2024.08|비사이드 프로젝트 서버개발|비사이드 & 클로바 스튜디오|
 
 ### Experience
 
